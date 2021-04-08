@@ -11,4 +11,4 @@ Notebooks:
 
 [Merge data](https://github.com/yr2387/E4511-2021-Rong/blob/main/Merge.ipynb)
 
-[Model](https://github.com/yr2387/E4511-2021-Rong/blob/main/model.ipynb)
+[Model: Random Forest](https://github.com/yr2387/E4511-2021-Rong/blob/main/model.ipynb)
