@@ -11,4 +11,6 @@ Notebooks:
 
 [Merge data](https://github.com/yr2387/E4511-2021-Rong/blob/main/Merge.ipynb)
 
-[Model: Random Forest](https://github.com/yr2387/E4511-2021-Rong/blob/main/model.ipynb)
+[Model: Random Forest](https://github.com/yr2387/E4511-2021-Rong/blob/main/Train_Models.ipynb)
+
+[Best Model Selection](https://github.com/yr2387/E4511-2021-Rong/blob/main/Best_Model.ipynb)
